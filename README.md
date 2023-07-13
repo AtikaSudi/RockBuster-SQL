@@ -4,7 +4,7 @@ PostgreSQL data analysis for Rockbuster Stealth movie rental company.
 
 ## Objective
 
-Rockbuster Stealth LLC, a global movie rental company, faces challenges in the streaming age. The study aims to identify loyal customers' locations and stock films based on location to boost revenue.
+In order to improve customer satisfaction and maximise income potential, I address Rockbuster Stealth LLC's streaming difficulties by analysing customer locations. I will strategically stock films according to the preferences of each region.
 
 ## Data
 
