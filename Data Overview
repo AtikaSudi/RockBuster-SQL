@@ -1,0 +1,17 @@
+SELECT
+COUNT(DISTINCT film_id) AS num_of_films,
+COUNT(DISTINCT language_id) AS num_of_languages,
+COUNT(DISTINCT release_year) AS num_of_release_years,
+ MIN(rental_duration) AS min_rent_duration,
+MAX(rental_duration) AS max_rent_duration,
+AVG(rental_duration) AS avg_rent_duration,
+MIN(rental_rate) AS min_rent_rate,
+MAX(rental_rate) AS max_rent_rate,
+AVG(rental_rate) AS avg_rent_rate,
+MIN(length) AS min_movie_length,
+MAX(length) AS max_movie_length,
+AVG(length) AS avg_movie_length
+MIN(replacement_cost) AS min_replacement_cost,
+MAX(replacement_cost) AS max_replacement_cost,
+AVG(replacement_cost) AS avg_replacement_cost
+FROM film
