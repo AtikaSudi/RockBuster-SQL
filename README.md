@@ -4,11 +4,10 @@ PostgreSQL data analysis for Rockbuster Stealth movie rental company.
 
 ## Objective
 
-In order to improve customer satisfaction and maximise income potential, I address Rockbuster Stealth LLC's streaming difficulties by analysing customer locations. I will strategically stock films according to the preferences of each region.
+In order to improve customer satisfaction and maximise income potential, I addressed  Rockbuster Stealth LLC's streaming difficulties by analysing customer locations. I strategically stock films according to the preferences of each region.
 
 ## Data
-
-Relational databases containing data on film rentals, customers, actors, payments, and more. The Rockbuster Data Dictionary provides descriptions and an Entity Relationship Diagram, while Tableau offers visualizations.
+The Rockbuster Data Dictionary provides descriptions and an Entity Relationship Diagram, while Tableau offers visualizations. The Data contains Relational databases on film rentals, customers, actors, and payments. 
 
 ## Tools
 
